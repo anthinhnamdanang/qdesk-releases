@@ -1,0 +1,10 @@
+{
+  "product": "QDesk",
+  "version": "1.5.0",
+  "date": "2026-11-21",
+  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.5.0/QDesk.exe",
+  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.5.0",
+  "sha256": "7C3A1E22FE7DC6F730AC4E05CE1708FBE0805C5ABEE4B4BE9968EEA3EAC349FD",
+  "notes": "- QDesk tự báo khi có bản mới (kiểm tra mỗi ngày, tắt được trong Cài đặt).\n- Bản Miễn phí (1 tài khoản Zalo), Nội bộ và Trả phí (không giới hạn) bằng mã kích hoạt.\n- Cảnh báo khi tài khoản bị Zalo đăng xuất.\n- Tự cài đặt / gỡ cài đặt, không cần cài thêm .NET.",
+  "signature": "J4oRXvGSVNHLPrXdfmRj90HSEkYATHzUKI44NA_EtVwXkKrNMLRW4RQWTBHUdJKURa5A-6kKHnAAJZ5bKthePg"
+}
