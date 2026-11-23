@@ -1,10 +1,10 @@
 {
   "product": "QDesk",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "date": "2026-11-23",
-  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.3/QDesk.exe",
-  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.3",
-  "sha256": "E52AF91D4D2766B7DFDAAE5BB6FF85FAC06B7861789F2BB6D8C15B87603BC66F",
-  "notes": "QDesk 1.6.3 - cập nhật một bấm, dọn rác\n- Mở file QDesk mới trong lúc QDesk đang chạy: bấm \"Cập nhật ngay\" là xong, không cần tự thoát QDesk.\n- Tự dọn hồ sơ trình duyệt thừa do lỗi mở link ở bản cũ (đưa vào Thùng rác).",
-  "signature": "nms_yTXGqlgSegg5RY1hkvfptht5Ch6osgzRWAuYQpoQmMV3PDP6X4V4WF6q_YsckHEAGNsYvTkOkPlesQvtpg"
+  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.4/QDesk.exe",
+  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.4",
+  "sha256": "E0ECCCB189A99F8E7B6935BB534857D9267304CBC7BBC129B1FD91EB7F065F54",
+  "notes": "QDesk 1.6.4 - giữ đúng mục tự chạy của Zalo\n- Nếu lỡ bật \"Khởi động cùng Windows\" trong cài đặt của Zalo chạy trong QDesk, QDesk tự trả mục tự chạy về Zalo gốc.\n- Hướng dẫn: chuyển máy / cài lại Windows thì cần quét QR lại cho từng tài khoản.",
+  "signature": "GLJj7H5Mex9ZbWs5-m0QjZ0Efye2SI9lWMCoj2b00ImdFcZjeQrMP9x1jAWTu0ly9c-G1AYMiJS-twdlxkiNDA"
 }
