@@ -1,10 +1,10 @@
 {
   "product": "QDesk",
-  "version": "1.6.5",
+  "version": "1.6.6",
   "date": "2026-11-23",
-  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.5/QDesk.exe",
-  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.5",
-  "sha256": "D041597DC539F739CA613D24B6A7EC284E38D83B5FBCD4AA34C5A2F1018310E1",
-  "notes": "QDesk 1.6.5 - hết hộp lỗi khi mở file đính kèm\n- Sửa lỗi: mở file nhận qua Zalo (Word, PDF...) không còn hiện hộp lỗi \"Windows cannot access the specified device, path, or file\".\n- Dọn thêm dữ liệu thừa do lỗi ở bản cũ (đưa vào Thùng rác).",
-  "signature": "RZHTHVxf5pssJYaaL--zxhBtcEJTZ61DP8U2kceeUEkz0jeOXdNh09AKcArzv1gMTQh150CiBQeu5vruORkLrQ"
+  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.6/QDesk.exe",
+  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.6",
+  "sha256": "C81BD3F306802B9B71DF5E2D8662676D6CE53CD4E2B659B845D37A77716687C5",
+  "notes": "QDesk 1.6.6 - gọi thoại / video trong QDesk\n- Gọi thoại và gọi video dùng được ở mọi tài khoản trong QDesk, kể cả khi đang mở Zalo gốc ngoài QDesk.\n- Mỗi tài khoản tốn thêm khoảng 170 MB ổ đĩa cho kênh gọi riêng.\n- Sửa lỗi cửa sổ Zalo đôi khi nằm ngoài QDesk (QDesk báo \"đã tắt\" dù Zalo vẫn chạy): QDesk tự nhận lại.",
+  "signature": "Sv3RiZ5SKh96xoj1JeWNq9YTywuZQnX9aZW7kuLkac41W_ALxM8UTwnXbY4S75YDNkgenekU3McSCvIdn4Ty2A"
 }
