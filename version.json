@@ -1,10 +1,10 @@
 {
   "product": "QDesk",
-  "version": "1.5.1",
-  "date": "2026-11-21",
-  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.5.1/QDesk.exe",
-  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.5.1",
-  "sha256": "7217BDEED19CFAFBA5CE9269206BF19A31F2BDDE9362FEC790FA783A3F22FF0A",
-  "notes": "- Mã máy giờ tính theo bo mạch chủ: cài lại Windows hay Reset PC không còn làm đổi mã máy, không phải xin lại mã kích hoạt.\n- Nếu bạn đã kích hoạt trước bản này và QDesk báo \"Mã được cấp cho máy khác\": gửi mã máy mới cho người bán để được cấp lại.",
-  "signature": "rDnnU6OHWjHB3ib8ELi-_psFYPMTuGJhyG02tGJUpyIJ5d2ZWrY5UGtBHwWztF6Pzen0WBeP_UTQXIIBhdmviw"
+  "version": "1.6.0",
+  "date": "2026-11-23",
+  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.0/QDesk.exe",
+  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.0",
+  "sha256": "D8C799FFCF31020062A703BA5A16081D965FE5F2BFC5D6A1D82DA62078CFCD90",
+  "notes": "QDesk 1.6.0 - thêm chế độ xem và ghim ô\n- Chế độ 3×2: xem 6 tài khoản cùng lúc (hợp màn hình 27 inch trở lên).\n- Chế độ 1 lớn + 3 nhỏ: ô lớn bên trái cho tài khoản đang trò chuyện, 3 ô nhỏ bên phải để theo dõi.\n- Ghim tài khoản vào ô cố định: chuột phải thanh tên của ô → Ghim. Mỗi chế độ xem nhớ ghim riêng.\n- Tài khoản không còn nhảy chỗ khi chọn tài khoản khác.",
+  "signature": "vMQWBfdmmyGA0ukQamUkddc6Xrvg09JBf7YnfAslSrxq_ScZRShSnXeAJFbe8kuiXKgL_qXtjfq0--RbgZ7OnA"
 }
