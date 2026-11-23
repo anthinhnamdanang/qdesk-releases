@@ -1,10 +1,10 @@
 {
   "product": "QDesk",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "date": "2026-11-23",
-  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.0/QDesk.exe",
-  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.0",
-  "sha256": "D8C799FFCF31020062A703BA5A16081D965FE5F2BFC5D6A1D82DA62078CFCD90",
-  "notes": "QDesk 1.6.0 - thêm chế độ xem và ghim ô\n- Chế độ 3×2: xem 6 tài khoản cùng lúc (hợp màn hình 27 inch trở lên).\n- Chế độ 1 lớn + 3 nhỏ: ô lớn bên trái cho tài khoản đang trò chuyện, 3 ô nhỏ bên phải để theo dõi.\n- Ghim tài khoản vào ô cố định: chuột phải thanh tên của ô → Ghim. Mỗi chế độ xem nhớ ghim riêng.\n- Tài khoản không còn nhảy chỗ khi chọn tài khoản khác.",
-  "signature": "vMQWBfdmmyGA0ukQamUkddc6Xrvg09JBf7YnfAslSrxq_ScZRShSnXeAJFbe8kuiXKgL_qXtjfq0--RbgZ7OnA"
+  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.1/QDesk.exe",
+  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.1",
+  "sha256": "04C434B33F11BA8318F6CAC8D6DC9DDFE3690EA3E77DA683787F83DFD9043C96",
+  "notes": "QDesk 1.6.1 - sửa lỗi gửi hình ảnh / đính kèm file\n- Sửa lỗi hộp chọn file của Zalo báo \"Location is not available\" khi gửi ảnh hoặc đính kèm file.\n- Desktop, Downloads, Pictures trong hộp chọn file giờ là thư mục thật trên máy.",
+  "signature": "JGgSwsl0IfWUQommT2o-vQmZ5i2dCrWDDHYRhGDTzgBt8-9Av6_nLKQZp9B34x3kUpO3sq53rZGYoBUUsBzwXw"
 }
