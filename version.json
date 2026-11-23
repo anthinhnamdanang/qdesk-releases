@@ -1,10 +1,10 @@
 {
   "product": "QDesk",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "date": "2026-11-23",
-  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.1/QDesk.exe",
-  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.1",
-  "sha256": "04C434B33F11BA8318F6CAC8D6DC9DDFE3690EA3E77DA683787F83DFD9043C96",
-  "notes": "QDesk 1.6.1 - sửa lỗi gửi hình ảnh / đính kèm file\n- Sửa lỗi hộp chọn file của Zalo báo \"Location is not available\" khi gửi ảnh hoặc đính kèm file.\n- Desktop, Downloads, Pictures trong hộp chọn file giờ là thư mục thật trên máy.",
-  "signature": "JGgSwsl0IfWUQommT2o-vQmZ5i2dCrWDDHYRhGDTzgBt8-9Av6_nLKQZp9B34x3kUpO3sq53rZGYoBUUsBzwXw"
+  "url": "https://github.com/anthinhnamdanang/qdesk-releases/releases/download/v1.6.2/QDesk.exe",
+  "page": "https://github.com/anthinhnamdanang/qdesk-releases/releases/tag/v1.6.2",
+  "sha256": "6E3634B78DE5C8CF36D22606A3367CF6AE2D933524E94BA347F1A8108076E09D",
+  "notes": "QDesk 1.6.2 - thông tin bản dùng, sửa lỗi mở link / mở file\n- Góc phải thanh công cụ hiện loại bản và thời hạn (vd: Trả phí · Vĩnh viễn, Nội bộ · còn 30 ngày). Bấm vào để xem chi tiết.\n- Bấm link trong Zalo giờ mở thành tab mới trong trình duyệt đang dùng (đã đăng nhập), không còn bật trình duyệt trắng.\n- File Word, Excel, PDF nhận qua Zalo mở bằng chương trình như bình thường.",
+  "signature": "RF95zn9Jy5SlMbWMEH4bZLjErj9mRocDbHbGFtkdzw9GTqhh7uS4ICZwA-CMIJbxY0EDJcX-sLv2wqHn4G8lpA"
 }
